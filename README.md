@@ -55,7 +55,7 @@ Jako rozwiązanie zadania załącz screenshot:
 
 ZADANIE Przetwarzanie obrazów
 
-Uzupełnij kod i stwórz swoją pierwszą sieć konwulcyjną.
+Uzupełnij kod i stwórz swoją pierwszą sieć konwolucyjną.
 
 Jako rozwiązanie zadania załącz screenshot z następującymi elementami:
 - wykonanie polecenia ‘model.summary()’ - etap 1

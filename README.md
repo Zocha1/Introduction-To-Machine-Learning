@@ -5,7 +5,7 @@ Naszym celem jest wprowadznie Was w świat Sztucznej Inteligencji. Przybliżymy 
 # Jak używać Google Colab?
 
 Warunkiem poprawnego zrealizowania zadań jest posiadanie konta na Dysku Google.
-W tym repozytorium znajdują się wszystkie notatniki (Google Colab), na których będziemy pracować. Wchodząc w poszczególne pliki (Colaby) w repozytorium możesz łatwo skopiować je na swój dysk, wystarczy, że użyjesz przycisku: 'Open in Colab' na samym początku pliku. Colaby zostały ponumerowane w kolejności, w której będziemy je przedstawiać, rekomendujemy również zachowanie tej kolejności przy wykonywaniu zadań praktycznych.
+W tym repozytorium znajdują się wszystkie notatniki (Google Colab), na których będziemy pracować. Wchodząc w poszczególne pliki (Colaby) w repozytorium możesz łatwo skopiować je na swój dysk, wystarczy, że użyjesz przycisku: 'Open in Colab' na samym początku pliku. Colaby zostały ponumerowane w kolejności, w której będziemy je przedstawiać, rekomendujemy również zachowanie tej kolejności przy wykonywaniu zadań praktycznych. Rozwiązanie zadań praktycznych będziesz przesyłał w formie screenów na UPELu.
 
 # Część teoretyczna
 

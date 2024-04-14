@@ -11,7 +11,7 @@ W tym repozytorium znajdują się wszystkie notatniki (Google Colab), na któryc
 
 Wszystkie materiały dotyczące części teoretycznej na podstawie, której rozwiążecie QUIZ na UPELu znajdują się w poniższych Google Colab:
 
-### [1_Wprowadzenie_teoretyczne_do_ML](https://www.openai.com)
+### [1_Wprowadzenie_teoretyczne_do_ML]([https://www.openai.com](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/65e213222b5142c74ffcf9b8c582dab34396aa48/1_Wprowadzenie_teoretyczne_do_ML.ipynb))
 
 ### [2_Tensory](https://www.openai.com)
 

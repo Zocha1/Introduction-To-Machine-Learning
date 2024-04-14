@@ -15,11 +15,12 @@ Wszystkie materiały dotyczące części teoretycznej na podstawie, której rozw
 
 ### [2_Tensory](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/main/2_Tensory.ipynb)
 
+
 # Część praktyczna
 
 Zanim przystąpisz do zadań, pamiętaj, że mają to być proste modele, w których przykładowo liczbę epok powinieneś dobrać po pierwszym spojrzeniu na wykresy. Zadań trochę jest, najbardziej złożone i czasochłonne zadania są w Colabie 7 oraz 8, dobrze rozplanuj swój czas, żeby ze wszystkim zdążyć!
 
-### [3_ZADANIE_Playground](https://www.openai.com)
+### [3_ZADANIE_Playground](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/main/3_ZADANIE_Playground.ipynb)
 
 ZADANIE Playground
 
@@ -27,9 +28,9 @@ Zaprojektuj, skonfiguruj i zoptymalizuj model sieci neuronowej klasyfikującej z
 
 Jako rozwiązanie zadania załącz screenshot zawierający element OUTPUT z sklasyfikowanymi danymi.
 
-### [4_PRZYKŁAD_Przetwarzanie_tekstu](https://www.openai.com)
+### [4_PRZYKŁAD_Przetwarzanie_tekstu](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/main/4_PRZYK%C5%81AD_Przetwarzanie_tekstu.ipynb)
 
-### [5_ZADANIE_Przetwarzanie_tekstu](https://www.openai.com)
+### [5_ZADANIE_Przetwarzanie_tekstu](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/main/5_ZADANIE_Przetwarzanie_tekstu.ipynb)
 
 ZADANIE Przetwarzanie tekstu
 
@@ -39,10 +40,9 @@ Jako rozwiązanie zadania załącz screenshot z następującymi elementami:
 - warstwy , które zastosowałeś do projektowania modelu, funkcje aktywacji, liczbę ukrytych jednostek - zadanie 2
 - jaką największą dokładność modelu udało Ci się osiągnąć - rezultat kodu: ‘results = model.evaluate(x_test, y_test)’ - zadanie 4
 
-### [6_PRZYKŁAD_Przetwarzanie_obrazów](https://www.openai.com)
+### [6_PRZYKŁAD_Przetwarzanie_obrazów](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/main/6_PRZYK%C5%81AD_Przetwarzanie_obraz%C3%B3w.ipynb)
 
-### [7_ZADANIE_zbiór_REUTERA](https://www.openai.com)
-
+### [7_ZADANIE_zbiór_REUTERA](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/main/7_ZADANIE_zbi%C3%B3r_REUTERA.ipynb)
 ZADANIE zbiór REUTERA
 
 Uzupełnij kod i stwórz swój pierwszy model uczenia maszynowego.
@@ -51,7 +51,7 @@ Jako rozwiązanie zadania załącz screenshot:
 - zawierający kod do etapu 3 oraz 
 - zawierający kod do etapu 6 bez wykresów, czyli rozwinięcie ‘history’ oraz ‘results’
 
-### [8_ZADANIE_Przetwarzenie_obrazów](https://www.openai.com)
+### [8_ZADANIE_Przetwarzenie_obrazów](https://github.com/Zocha1/Introduction-To-Machine-Learning/blob/main/8_ZADANIE_Przetwarzanie_obraz%C3%B3w.ipynb)
 
 ZADANIE Przetwarzanie obrazów
 

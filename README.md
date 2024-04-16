@@ -62,3 +62,7 @@ Jako rozwiązanie zadania załącz screenshot z następującymi elementami:
 - obliczoną dokładność oraz straty modelu - etap 5
 
 # Powodzenia!
+
+Naszą główną inspiracją przy tworzeniu projektu była książka:
+Deep Learning. Praca z językiem Python i biblioteką Keras
+Autor: Francois Chollet
